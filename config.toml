@@ -1,7 +1,7 @@
 baseURL = "https://icy-ocean-0d3ae2510.azurestaticapps.net/"
 languageCode = "en-us"
 title = "Digital Data Science"
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+theme = "ananke"
 
 themesDir = "../.."
 resourceDir = "../resources"
