@@ -30,7 +30,7 @@ enableRobotsTXT = true
 [params]
   favicon = ""
   site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "This is a description"
   facebook = ""
   twitter = ""
   instagram = ""
