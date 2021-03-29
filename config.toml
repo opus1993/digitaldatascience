@@ -14,7 +14,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "My blog"
+    title = "Digital Data Science"
     weight = 1
     contentDir = "content/en"
 #  [languages.fr]
@@ -32,7 +32,7 @@ enableRobotsTXT = true
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  twitter = ""
   instagram = ""
   youtube = ""
   github = ""
