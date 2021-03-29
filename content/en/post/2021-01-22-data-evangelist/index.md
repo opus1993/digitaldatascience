@@ -20,8 +20,6 @@ draft: false
 #   focal_point: ""
 #   preview_only: false
   
-featured_image: "featured.jpg"
-omit_header_text: true
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
