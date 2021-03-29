@@ -1,10 +1,10 @@
 baseURL = "https://icy-ocean-0d3ae2510.azurestaticapps.net/"
 languageCode = "en-us"
 title = "Digital Data Science"
-# theme = "ananke"
+theme = "ananke"
 
-themesDir = "../.."
-resourceDir = "../resources"
+# themesDir = "../.."
+# resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
@@ -17,10 +17,10 @@ enableRobotsTXT = true
     title = "My blog"
     weight = 1
     contentDir = "content/en"
-  [languages.fr]
-    title = "Mon blogue"
-    weight = 2
-    contentDir = "content/fr"
+#  [languages.fr]
+#    title = "Mon blogue"
+#    weight = 2
+#    contentDir = "content/fr"
 
 [sitemap]
   changefreq = "monthly"
